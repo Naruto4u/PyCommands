@@ -1,2 +1,2 @@
 # PyCommands
-Just testing some python commands from my lessons..
+Documented usage of all python commands (It's a work in progress~)

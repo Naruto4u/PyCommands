@@ -6,3 +6,4 @@ for x in UserList:
         SecondList.append(x)
 
 print(len(SecondList))
+print(SecondList)
